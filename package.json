@@ -1,5 +1,5 @@
 {
-  "name": "my-loopback-connector-kv-redis",
+  "name": "loopback-connector-kv-redis",
   "version": "4.0.1",
   "description": "The official Redis KeyValue connector for LoopBack",
   "engines": {
